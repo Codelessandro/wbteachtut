@@ -1,0 +1,15 @@
+{
+  "name": "searchengine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "searchengine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dom-parser": "^0.1.5"
+  }
+}
